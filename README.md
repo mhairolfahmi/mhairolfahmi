@@ -1,16 +1,20 @@
 ## Hi there 👋
+I am Fahmi, aspire data engineer based in Malaysia.
 
-<!--
-**mhairolfahmi/mhairolfahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoyed transform, model and analyze data to find its value.
 
-Here are some ideas to get you started:
+Currently i have :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Skills in SQL, Python, PySpark.
+
+* Hand on experience using PowerBI, Tableau and Databricks.
+
+About me:
+* Currently i working as customer service in insurance where i help insurance agent solve their issues using data.
+* I love investing and grow my money.
+ 
+
+
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhairolfahmi&layout=compact&theme=dark)
