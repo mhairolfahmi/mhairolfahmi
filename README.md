@@ -14,7 +14,3 @@ About me:
 * I love investing and grow my money.
  
 
-
-## Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhairolfahmi&layout=compact&theme=dark)
